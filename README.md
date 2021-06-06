@@ -1,2 +1,2 @@
 # Exercicios
- Alguns exercsicos em JAVASCRIPT
+ Alguns exercicios em JAVASCRIPT
