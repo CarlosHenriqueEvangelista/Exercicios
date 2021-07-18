@@ -1,2 +1,2 @@
 # Exercicios
- Alguns exercicios em JAVASCRIPT
+ Exercicios feitos durante o evento **Semana do JavaScript** Feita pelo professor **Roger Melo**
